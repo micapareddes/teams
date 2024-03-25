@@ -1,3 +1,5 @@
+### Sobre o projeto
+Aplicativo desenvolvido em react-native. Este app foi criado para a organização de times. Podendo criar diversas turmas, e em cada turma é acresentado participantes, dividindo-os entre os grupos A e B.
 ### O que foi aprendido neste projeto?
 1. Mapeamento das rotas no babel.config.js e tsconfig.json
 2. Estruturação de pastas, especialmente do storage
